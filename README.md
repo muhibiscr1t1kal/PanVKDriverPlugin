@@ -18,3 +18,24 @@ Installation Process Is Super Simple. Follow The Steps Below:
 5. Go To Vulkan Driver Option And Select **"PanVK"**
 6. Set The Renderer To **"Vulkan Zink"**
 7. You're Done!
+
+# WHAT ABOUT OTHER GPUs?
+Excluding Iphones,
+
+We Mainly Have Three GPUs
+
+1. Adreno
+2. Mali
+3. PowerVR
+
+Adreno Are Snapdragon Only
+Mali Are Most Widely Used By Different Chip Brands
+PowerVR Is Very Rare On Android, Ones It Was Primarily Used On Iphone And Apple's A Series SoCs As GPUs. In Mordern Day, PowerVR Is Only Available On MediaTek Dimensity 7025 And And Google Tensor 5.
+
+For Adreno GPU Users, There Is An Built-in Turnip Driver Inside Zalith But It's Not Very Good, So Adreno Users, Use FCLDriverPlugin: https://github.com/FCL-Team/FCLDriverPlugin
+
+For PowerVR: Although These GPUs Are Extremely Rare. I Already Have Plans To Make A Mesa Vulkan Driver Plugin For PowerVR GPUs Too. Similar To What I Did For Mali GPUs. It's Mesa's PVRVK Driver And I'll Make A Plugin For It Soon! Stay Tuned...
+
+# IT WON'T WORK! 
+Why?
+Answer: PanVK Is Not Something You Just Plug In And Play. PanVK Libs Must Be Patched And Intergreted Inside Zalith Code Otherwise It Wouldn't Work. No One Has Done That Till Now. I Have Plans But Not Sure I Can Or Not I Don't Have Proper Time Or Skills For Such Big Projects. I Will Change This Notice If I Find Any Solution. But For Now, The Source Code And Apk Are Here For People Who Want To See The Code, Edit It Or Make Something New And Useful. Until I Find Any Solution. 
