@@ -14,11 +14,11 @@ Installation Process Is Super Simple. Follow The Steps Below:
 
 1. Download The Apk From The Latest Release.
 2. Install The App
-3. Open The App Once
+3. Open The App Once, Then Close It.
 4. Open Zalith Launcher And Go To Settings
 5. Go To Vulkan Driver Option And Select **"PanVK"**
 6. Set The Renderer To **"Vulkan Zink"**
-7. You're Done!
+7. You're Done! Run The Game.
 ![Screenshot](.github/images/screenshot1.png) 
 **SCREENSHOT OF SELECTABLE "PANVK" OPTION ON ZALITH REBORN (FORK OF ZALITH)**
 
