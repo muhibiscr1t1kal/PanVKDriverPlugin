@@ -1,5 +1,5 @@
 # PanVK Driver Plugin
-A Plugin That Enables The Use Of Mesa 3D's PanVK Vulkan Driver For Mali GPU Devices.
+A Simple App Plugin That Enables The Use Of Mesa 3D's PanVK Vulkan Driver For Mali GPU Devices.
 
 # Why I'm Making This? 
 A Vulkan Driver Plugin For Zalith Launcher That Enables The Use Of Vulkan API On Unsupported Devices With Mali GPUs. PanVK Is Basically Turnip But For Mali GPUs. It Makes Vulkan Work On Unsupported Devices By Replacing The System Vulkan Driver With Mesa's PanVK Driver That Can Fill The Extension Or Feature Gaps In System Vulkan Driver. **BUT NOTE THAT IF YOUR DEVICE SUPPORTS NATIVE VULKAN, YOU DON'T NEED TO USE THIS. SYSTEM VULKAN DRIVERS ARE WAY STRONGER THAN 3RD PARTY DRIVERS LIKE THIS. SO IF YOUR DEVICE SUPPORTS IT, TURN ON "USE SYSTEM VULKAN DRIVER" OPTION AND PLAY** Check If Your Device Is Compatible Or Not By Using TOWO's Vulkan Extension Checker: https://drive.google.com/file/d/1Gnpq_ndy3Qz916Y6i9KeA3qaHJKGVsbW/view?usp=sharing
@@ -7,7 +7,7 @@ A Vulkan Driver Plugin For Zalith Launcher That Enables The Use Of Vulkan API On
 **ONLY USE PANVK DRIVER IF IT SAYS "FAILED", IF SAYS "PASSED" USE SYSTEM VULKAN DRIVER. I'M REMINDING YOU AGAIN!**
 
 
-# How To Use It?
+# Installation Guide
 
 Installation Process Is Super Simple. Follow The Steps Below:
 
@@ -19,7 +19,7 @@ Installation Process Is Super Simple. Follow The Steps Below:
 6. Set The Renderer To **"Vulkan Zink"**
 7. You're Done!
 
-# WHAT ABOUT OTHER GPUs?
+# What About Other GPUs?
 Excluding Iphones,
 
 We Mainly Have Three GPUs
@@ -32,7 +32,7 @@ Adreno Are Snapdragon Only
 Mali Are Most Widely Used By Different Chip Brands
 PowerVR Is Very Rare On Android, Ones It Was Primarily Used On Iphone And Apple's A Series SoCs As GPUs. In Mordern Day, PowerVR Is Only Available On MediaTek Dimensity 7025 And And Google Tensor 5.
 
-For Adreno GPU Users, There Is An Built-in Turnip Driver Inside Zalith But It's Not Very Good, So Adreno Users, Use FCLDriverPlugin: https://github.com/FCL-Team/FCLDriverPlugin
+For Adreno GPU Users, There Is An Built-in Turnip Driver Inside Zalith But It's Not Very Good, So Adreno Users, Use The PurpleVK Driver Plugin: https://github.com/FCL-Team/FCLDriverPlugin
 
 For PowerVR: Although These GPUs Are Extremely Rare. I Already Have Plans To Make A Mesa Vulkan Driver Plugin For PowerVR GPUs Too. Similar To What I Did For Mali GPUs. It's Mesa's PVRVK Driver And I'll Make A Plugin For It Soon! Stay Tuned...
 
