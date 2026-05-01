@@ -18,6 +18,7 @@ Installation Process Is Super Simple. Follow The Steps Below:
 5. Go To Vulkan Driver Option And Select **"PanVK"**
 6. Set The Renderer To **"Vulkan Zink"**
 7. You're Done!
+![Screenshot](.github/images/screenshot1.png) 
 
 # What About Other GPUs?
 Excluding Iphones,
