@@ -1,5 +1,5 @@
 # PanVK Driver Plugin
-A Simple App Plugin That Enables The Use Of Mesa 3D's PanVK Vulkan Driver For Mali GPU Devices.
+An Simple App Plugin That Enables The Use Of Mesa 3D's PanVK Vulkan Driver For Mali GPU Devices.
 
 # Why I'm Making This? 
 A Vulkan Driver Plugin For Zalith Launcher That Enables The Use Of Vulkan API On Unsupported Devices With Mali GPUs. PanVK Is Basically Turnip But For Mali GPUs. It Makes Vulkan Work On Unsupported Devices By Replacing The System Vulkan Driver With Mesa's PanVK Driver That Can Fill The Extension Or Feature Gaps In System Vulkan Driver. **BUT NOTE THAT IF YOUR DEVICE SUPPORTS NATIVE VULKAN, YOU DON'T NEED TO USE THIS. SYSTEM VULKAN DRIVERS ARE WAY STRONGER THAN 3RD PARTY DRIVERS LIKE THIS. SO IF YOUR DEVICE SUPPORTS IT, TURN ON "USE SYSTEM VULKAN DRIVER" OPTION AND PLAY** Check If Your Device Is Compatible Or Not By Using TOWO's Vulkan Extension Checker: https://drive.google.com/file/d/1Gnpq_ndy3Qz916Y6i9KeA3qaHJKGVsbW/view?usp=sharing
@@ -46,5 +46,10 @@ I'm Just A Simple Person Who Made The App Plugin And Integrated The PanVK File I
 
 Visit Them Here:
 
-www.collabora.com
-mesa3d.org
+https://www.collabora.com/
+
+https://www.mesa3d.org/ 
+
+# Code Usage And Forking
+
+This Project Is Completely Open-Source And Under Apache-2.0 License, Which Is Very Permissible. Forking Is Allowed. You Are Completely Allowed To Use My Code For Learning, Editing And Building New Things With It. But You're Not Allowed To Take Full Ownership Of The App Itself.
