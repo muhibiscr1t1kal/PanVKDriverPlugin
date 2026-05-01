@@ -40,3 +40,11 @@ For PowerVR: Although These GPUs Are Extremely Rare. I Already Have Plans To Mak
 # IT WON'T WORK! 
 Why?
 Answer: PanVK Is Not Something You Just Plug In And Play. PanVK Libs Must Be Patched And Intergreted Inside Zalith Code Otherwise It Wouldn't Work. No One Has Done That Till Now. I Have Plans But Not Sure I Can Or Not I Don't Have Proper Time Or Skills For Such Big Projects. I Will Change This Notice If I Find Any Solution. But For Now, The Source Code And Apk Are Here For People Who Want To See The Code, Edit It Or Make Something New And Useful. Until I Find Any Solution. 
+
+# Credits
+I'm Just A Simple Person Who Made The App Plugin And Integrated The PanVK File Inside. All Credits To Collabora And Mesa 3D Graphics Developers For Making This.
+
+Visit Them Here:
+
+www.collabora.com
+mesa3d.org
