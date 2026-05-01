@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources package="com.muhibiscr1t1kal.panvkdriverplugin" id="0x7f">
+  <public id="0x7f010000" type="drawable" name="img_app" />
+  <public id="0x7f020000" type="string" name="app_name" />
+</resources>
