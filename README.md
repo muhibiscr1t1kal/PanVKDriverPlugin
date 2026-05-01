@@ -21,6 +21,15 @@ Installation Process Is Super Simple. Follow The Steps Below:
 7. You're Done!
 ![Screenshot](.github/images/screenshot1.png) 
 **SCREENSHOT OF SELECTABLE "PANVK" OPTION ON ZALITH REBORN (FORK OF ZALITH)**
+
+# Compatibility
+PanVK Requairs Mali GPUs Of Following Architectures:
+1. Vallhall
+2. Bifrost
+3. Midgard
+
+**But However Support Is Not Guaranteed On All GPUs** 
+
 # What About Other GPUs?
 Excluding Iphones,
 
