@@ -20,16 +20,9 @@ android {
             isMinifyEnabled = false
         }
         configureEach {
-            //应用名
-            //app name
-            resValue("string","app_name","PanVK 25.2.8")
-            //包名后缀
-            //package name Suffix
-            applicationIdSuffix = ".panvk2528"
-
-            //驱动在启动器内显示的名称
-            //The name displayed by the driver in the launcher
-            manifestPlaceholders["driver"] = "PanVK Driver Plugin"
+            resValue("string","app_name","PanVK Driver Plugin")
+            applicationIdSuffix = ".panvkdriverplugin"
+            manifestPlaceholders["driver"] = "panvk"
         }
     }
     compileOptions {
