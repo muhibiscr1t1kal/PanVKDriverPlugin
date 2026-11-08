@@ -29,7 +29,7 @@ android {
 
             //驱动在启动器内显示的名称
             //The name displayed by the driver in the launcher
-            manifestPlaceholders["driver"] = "PanVK 25.2.8"
+            manifestPlaceholders["driver"] = "PanVK Driver Plugin"
         }
     }
     compileOptions {
