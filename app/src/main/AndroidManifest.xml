@@ -12,7 +12,7 @@
                android:allowBackup="true"
                android:supportsRtl="true"
                android:extractNativeLibs="true">
-    <activity android:name="com.mio.plugin.renderer.MainActivity"
+    <activity android:name="com.muhibiscr1t1kal.panvkdriverplugin.MainActivity"
               android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
