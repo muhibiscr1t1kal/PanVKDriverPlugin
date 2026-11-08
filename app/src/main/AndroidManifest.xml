@@ -3,7 +3,6 @@
           android:versionName="1.0"
           android:compileSdkVersion="34"
           android:compileSdkVersionCodename="14"
-          package="com.muhibiscr1t1kal.panvkdriverplugin"
           platformBuildVersionCode="34"
           platformBuildVersionName="14" xmlns:android="http://schemas.android.com/apk/res/android">
   <uses-sdk android:minSdkVersion="26"
