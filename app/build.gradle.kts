@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.mio.plugin.renderer"
-    compileSdk = 34
+    namespace = "com.muhibiscr1t1kal.panvkdriverplugin"
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.mio.plugin.renderer"
+        applicationId = "com.muhibiscr1t1kal.panvkdriverplugin"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
     }
