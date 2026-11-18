@@ -19,8 +19,8 @@ class MainActivity : Activity() {
             gravity = Gravity.CENTER
         }
 
-        val text = TextView(this).apply {
-            textView = "Made by MuhibIsCr1t1kal"
+        val textView = TextView(this).apply {
+            text = "Made by MuhibIsCr1t1kal"
             textSize = 20f
             gravity = Gravity.CENTER
         }
