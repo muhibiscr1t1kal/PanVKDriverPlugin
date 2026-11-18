@@ -20,7 +20,7 @@ class MainActivity : Activity() {
         }
 
         val text = TextView(this).apply {
-            text = "Made by MuhibIsCr1t1kal"
+            textView = "Made by MuhibIsCr1t1kal"
             textSize = 20f
             gravity = Gravity.CENTER
         }
@@ -29,7 +29,7 @@ class MainActivity : Activity() {
             text = "Visit GitHub Repo"
         }
 
-        layout.addView(text)
+        layout.addView(textView)
         layout.addView(button)
 
         setContentView(layout)
